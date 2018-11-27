@@ -13,9 +13,10 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-3194507391897588~8154314317" />
 
-        <activity android:name=".MainActivity"
-            android:windowSoftInputMode="stateAlwaysVisible">
-
+        <activity
+            android:name=".SplashScreen"
+            android:screenOrientation="portrait"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,6 +28,10 @@
             android:label="Puan Hesaplama"
             android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme" />
+        <activity android:name=".MainActivity"
+            android:windowSoftInputMode="stateAlwaysVisible">
+
+        </activity>
     </application>
 
 </manifest>
