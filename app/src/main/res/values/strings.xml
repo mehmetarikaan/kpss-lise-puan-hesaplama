@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KPSS Ortaöğretim Puan Hesaplama</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3194507391897588/7770460490</string>
+    <string name="butonalti">**KPSS Ortaöğretim, 2019 yılında yapılmayacaktır. Sınav ÖSYM tarafından 2020 yılında yapılacaktır.</string>
+    <string name="puanHesaplamaBilgi">Hesaplanan değerler ÖSYM\'nin yayınladığı 2020 yılı KPSS Ortaöğretim kılavuzu baz alınarak yapılmaktadır.Standart sapma kadar hata payı vardır.</string>
+    <string name="hatapayi">Yapılan hesap ile ÖSYM\'nin açıkladığı KPSS puanı arasında -+3 puan oynayabilir.</string>
+</resources>
